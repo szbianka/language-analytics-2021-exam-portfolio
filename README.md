@@ -2,7 +2,7 @@
 This repository contains projects for the Language Analytics exam in the Cultural Data Science 2021 supplementary course at Aarhus University.
 The portfolio - following the exam regulations - consists of 5 projects in total - of which four are class assignments and one is a self-assigned project. Each assignment is linked to a separate folder, which contains all the necessary files and guidelines for reproducing the project, as well as explanations about the project.
 
-The code has been developed on a computer with Windows 10 operating system. Therefore if you wish to reproduce the projects on a Mac or Linux machine, you must be aware of the possible differences between the operating systems.
+The code for Projects 1 and 5 have been developed on a computer with Windows 10 operating system. Therefore if you wish to reproduce the projects on a Mac or Linux machine, you must be aware of the possible differences between the operating systems. Projects 2, 3, 4 have been developed on Worker02, therefore I recommend running these from there or on a MAC machine.
 
 ## General structure of the folders
 
