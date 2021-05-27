@@ -10,17 +10,17 @@ To solve the given task, I created a Python script that can be run from the comm
 
 ## Usage (reproducing results)
 The linked GitHub repository contains:
-network.py script that can be run from the command line
-a requirements.txt file listing the required Python libraries for being able to run the script
-a venv_venv.sh script for setting up a virtual environment for running the script (recommended) - NB: for running on Worker02 and MAC users
-a data folder, which contains the data used for this project
-utils folder with utility functions used in the script (written by Ross Deans Kristensen-McLachlan)
-output folder containing the output files
+- network.py script that can be run from the command line
+- a requirements.txt file listing the required Python libraries for being able to run the script
+- a venv_venv.sh script for setting up a virtual environment for running the script (recommended) - NB: for running on Worker02 and MAC users
+- a data folder, which contains the data used for this project
+- utils folder with utility functions used in the script (written by Ross Deans Kristensen-McLachlan)
+- output folder containing the output files
 In order to run this script, open your terminal and:
-Clone this repo with `git clone https://github.com/szbianka/language-analytics-2021-exam-portfolio` 
-Navigate to the appropriate directory (Project2) 
+1. Clone this repo with `git clone https://github.com/szbianka/language-analytics-2021-exam-portfolio` 
+2. Navigate to the appropriate directory (Project2) 
 `cd language-analytics-2021-exam-portfolio/Project2`
-activate a virtual environment (recommended) by:
+3. activate a virtual environment (recommended) by:
 (NB: The only reason I did not include the already made virtual environment in this repository is because the file was too big on my Windows computer.)
 On Windows:
 If you have not used virtual environments before, you might need to run the following command first `py -m pip install --user virtualenv`
